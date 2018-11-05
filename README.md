@@ -1,0 +1,2 @@
+# czsk
+Kodi repository
